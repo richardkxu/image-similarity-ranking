@@ -1,0 +1,1900 @@
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_0.JPEG
+test label: n03444034
+top10 labels:
+['n03444034' 'n03444034' 'n03444034' 'n03444034' 'n03444034' 'n03444034'
+ 'n03444034' 'n03444034' 'n03444034' 'n03444034']
+top10 dist:
+[7.25360163 7.53209044 7.57300901 7.60319421 7.62787202 7.64581581
+ 7.71356881 7.7343491  7.81347278 7.82997246]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_23.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_341.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_97.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_18.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_421.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_228.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_151.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_289.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_399.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.57680389 111.97313415 112.63871308 113.55694109 113.84989289
+ 114.27061896 115.01771233 115.18625897 116.9318903  122.09062026]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_1.JPEG
+test label: n04067472
+top10 labels:
+['n04417672' 'n03804744' 'n02906734' 'n02226429' 'n02231487' 'n02236044'
+ 'n02231487' 'n02236044' 'n02231487' 'n04597913']
+top10 dist:
+[ 9.66580137  9.69320959  9.91056676 10.10693711 10.1615824  10.27555924
+ 10.27648875 10.27993284 10.30422467 10.38767773]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04417672/images/n04417672_445.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03804744/images/n03804744_215.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_414.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_273.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_315.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_391.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_9.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_470.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_71.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04597913/images/n04597913_379.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.79869566 110.11979323 110.75091334 111.65988575 112.02684203
+ 112.4178004  113.23161901 113.28310568 115.14814915 120.28764924]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_2.JPEG
+test label: n04070727
+top10 labels:
+['n03393912' 'n02948072' 'n03160309' 'n03584254' 'n03393912' 'n03444034'
+ 'n04456115' 'n02788148' 'n03930313' 'n02808440']
+top10 dist:
+[ 9.74458879  9.90105917 10.29994791 10.48263823 10.48306345 10.56810509
+ 10.58691198 10.61649497 10.77098075 10.83068643]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03393912/images/n03393912_417.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02948072/images/n02948072_353.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03160309/images/n03160309_297.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_276.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03393912/images/n03393912_425.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03444034/images/n03444034_48.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04456115/images/n04456115_124.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02788148/images/n02788148_340.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03930313/images/n03930313_427.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_65.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.35542997 111.74552377 112.34418653 113.28872508 113.62043502
+ 114.05232411 114.77387398 114.95522208 116.71367334 121.93840321]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_3.JPEG
+test label: n02808440
+top10 labels:
+['n02808440' 'n02808440' 'n02808440' 'n02808440' 'n02808440' 'n02808440'
+ 'n02808440' 'n02808440' 'n02808440' 'n02808440']
+top10 dist:
+[6.6746981  6.77230358 6.77990498 7.03449101 7.07067219 7.27001305
+ 7.2981617  7.36543982 7.37501637 7.41095873]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_171.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_159.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_359.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_440.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_449.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_255.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_2.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_333.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_391.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02808440/images/n02808440_459.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.40993919 111.85250742 112.47651869 113.36048095 113.6549544
+ 114.05619919 114.8943181  115.05936896 116.76857579 121.9323871 ]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_4.JPEG
+test label: n02808440
+top10 labels:
+['n02948072' 'n02906734' 'n03970156' 'n03976657' 'n03970156' 'n03976657'
+ 'n03649909' 'n03976657' 'n03976657' 'n02906734']
+top10 dist:
+[ 9.4672617   9.94530806 10.02317004 10.12127751 10.12281762 10.12920085
+ 10.14045172 10.20035452 10.22257519 10.2979187 ]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02948072/images/n02948072_376.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_64.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03970156/images/n03970156_431.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03976657/images/n03976657_34.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03970156/images/n03970156_472.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03976657/images/n03976657_470.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03649909/images/n03649909_110.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03976657/images/n03976657_54.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03976657/images/n03976657_378.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_116.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.57901317 109.96678261 110.63111961 111.53353256 111.84505451
+ 112.269211   113.04889555 113.16985452 114.92130579 120.13024731]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_5.JPEG
+test label: n04399382
+top10 labels:
+['n04399382' 'n04399382' 'n04399382' 'n04399382' 'n04399382' 'n04399382'
+ 'n04399382' 'n04399382' 'n04399382' 'n04399382']
+top10 dist:
+[6.65087077 6.69208709 7.03711411 7.17815608 7.21705355 7.21866165
+ 7.23348441 7.24066496 7.25694914 7.27440756]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_232.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_5.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_425.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_152.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_330.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_279.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_205.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_11.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_422.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04399382/images/n04399382_326.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.63819713 110.99218206 111.61942987 112.50466807 112.83444428
+ 113.22490512 114.04556715 114.12370925 115.95249031 121.13645077]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_6.JPEG
+test label: n04179913
+top10 labels:
+['n04179913' 'n04179913' 'n04179913' 'n04179913' 'n02988304' 'n04179913'
+ 'n04179913' 'n04179913' 'n04179913' 'n04356056']
+top10 dist:
+[8.67359311 8.84086947 9.02815185 9.32301872 9.34413521 9.51845527
+ 9.57634121 9.65805971 9.72230651 9.74548097]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04179913/images/n04179913_47.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04179913/images/n04179913_106.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04179913/images/n04179913_247.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04179913/images/n04179913_162.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02988304/images/n02988304_186.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04179913/images/n04179913_494.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04179913/images/n04179913_340.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04179913/images/n04179913_1.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04179913/images/n04179913_117.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04356056/images/n04356056_482.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.55617805 109.9207014  110.6076345  111.4828381  111.80362987
+ 112.18772427 113.02350555 113.17618605 114.93008176 120.09841862]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_7.JPEG
+test label: n02823428
+top10 labels:
+['n02823428' 'n02823428' 'n02823428' 'n02823428' 'n02823428' 'n02823428'
+ 'n02823428' 'n02823428' 'n02823428' 'n03983396']
+top10 dist:
+[5.69514891 5.96167188 6.03920692 6.11886602 6.12078782 6.15774437
+ 6.18390801 6.20641098 6.25490194 6.27048974]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_163.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_476.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_253.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_14.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_347.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_9.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_23.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02823428/images/n02823428_83.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03983396/images/n03983396_150.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.93741179 112.27237909 112.86659387 113.84336034 114.10782119
+ 114.54043902 115.33467692 115.41417102 117.1957279  122.39594015]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_8.JPEG
+test label: n04146614
+top10 labels:
+['n04146614' 'n04146614' 'n04146614' 'n04146614' 'n04146614' 'n04146614'
+ 'n04146614' 'n04146614' 'n04146614' 'n04146614']
+top10 dist:
+[4.2903616  4.591811   4.74608561 4.9294903  5.10670916 5.12882105
+ 5.21259507 5.24276559 5.2640819  5.35737369]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_368.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_466.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_360.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_164.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_107.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_156.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_495.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_442.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_374.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04146614/images/n04146614_310.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.55302159 111.91856078 112.6020394  113.44680822 113.69807283
+ 114.16874606 114.96450514 115.1444226  116.82660925 121.9398006 ]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_9.JPEG
+test label: n02226429
+top10 labels:
+['n02165456' 'n02226429' 'n01784675' 'n01784675' 'n02226429' 'n01644900'
+ 'n01945685' 'n02268443' 'n01698640' 'n01945685']
+top10 dist:
+[8.37352291 8.633784   8.8583644  8.96204156 8.99523385 9.19807058
+ 9.20762798 9.23178825 9.34041658 9.34937786]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02165456/images/n02165456_18.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_437.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01784675/images/n01784675_331.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01784675/images/n01784675_170.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_19.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01644900/images/n01644900_1.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01945685/images/n01945685_29.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02268443/images/n02268443_200.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01698640/images/n01698640_62.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01945685/images/n01945685_446.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.64727135 108.86626463 109.54040273 110.43125765 110.7455629
+ 111.06952968 112.02235189 112.04642675 113.88346632 119.03216915]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_10.JPEG
+test label: n04371430
+top10 labels:
+['n04371430' 'n02837789' 'n04251144' 'n04371430' 'n04371430' 'n04371430'
+ 'n04371430' 'n04371430' 'n04371430' 'n04251144']
+top10 dist:
+[6.6022102  6.6720518  6.70277258 6.70781296 6.7780854  6.88425255
+ 6.92190334 7.09422626 7.10497271 7.18917183]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02837789/images/n02837789_478.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_482.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_117.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_379.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_307.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_125.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_434.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_9.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_259.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.62005015 109.02519547 109.65648168 110.58500598 110.92428851
+ 111.37711918 112.08599237 112.26474233 114.00268087 119.19709862]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_11.JPEG
+test label: n07753592
+top10 labels:
+['n07873807' 'n07873807' 'n07873807' 'n07873807' 'n07873807' 'n07873807'
+ 'n07873807' 'n07873807' 'n07873807' 'n07873807']
+top10 dist:
+[7.42468534 7.98093811 8.01170624 8.11381417 8.12727759 8.13286971
+ 8.24933855 8.44384008 8.49981611 8.56967388]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_179.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_277.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_171.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_178.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_230.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_219.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_373.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_175.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_49.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07873807/images/n07873807_443.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.20864626 110.55662209 111.15098013 112.04315278 112.40247828
+ 112.81627448 113.58847424 113.75160123 115.4920575  120.7084044 ]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_12.JPEG
+test label: n02226429
+top10 labels:
+['n02226429' 'n02226429' 'n02190166' 'n02226429' 'n02206856' 'n02226429'
+ 'n02190166' 'n02268443' 'n02226429' 'n01770393']
+top10 dist:
+[6.18307742 6.584374   6.60203139 6.63878389 6.83022818 6.84300662
+ 6.90436677 7.07411762 7.09252919 7.1148322 ]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_119.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_198.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02190166/images/n02190166_75.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_308.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02206856/images/n02206856_187.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_403.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02190166/images/n02190166_196.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02268443/images/n02268443_96.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_367.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01770393/images/n01770393_478.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.51623529 108.73681562 109.28090021 110.17296858 110.52934063
+ 110.94519701 111.78031994 111.82352716 113.6652482  118.82962542]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_13.JPEG
+test label: n03770439
+top10 labels:
+['n03970156' 'n03770439' 'n02977058' 'n04074963' 'n03970156' 'n02364673'
+ 'n04356056' 'n04265275' 'n04099969' 'n02841315']
+top10 dist:
+[10.55463475 10.56522007 10.67935551 10.69876282 10.77664157 10.8186042
+ 10.88477508 10.93834442 10.94089292 10.9825222 ]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03970156/images/n03970156_81.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03770439/images/n03770439_411.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02977058/images/n02977058_415.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_494.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03970156/images/n03970156_253.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02364673/images/n02364673_8.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04356056/images/n04356056_70.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04265275/images/n04265275_247.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_368.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02841315/images/n02841315_90.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.18228634 108.53832834 109.16997154 110.04719902 110.39207046
+ 110.81743594 111.60140411 111.70000613 113.49619238 118.71870046]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_14.JPEG
+test label: n02056570
+top10 labels:
+['n04251144' 'n04251144' 'n04251144' 'n04251144' 'n04251144' 'n04251144'
+ 'n04251144' 'n04251144' 'n02056570' 'n04371430']
+top10 dist:
+[ 9.00882902  9.61703131  9.71573255  9.88422222  9.90367882 10.01653981
+ 10.10966239 10.13695637 10.19772369 10.26761504]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_343.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_208.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_45.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_370.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_385.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_18.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04251144/images/n04251144_142.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02056570/images/n02056570_425.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_498.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.80964882 110.10640119 110.74110112 111.6702419  111.96404722
+ 112.36795322 113.19257758 113.30266966 115.08739757 120.29763382]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_15.JPEG
+test label: n02906734
+top10 labels:
+['n04067472' 'n03970156' 'n03976657' 'n02906734' 'n02906734' 'n02906734'
+ 'n03255030' 'n03424325' 'n04067472' 'n02788148']
+top10 dist:
+[9.04611817 9.22961714 9.53745307 9.56562935 9.7763684  9.78836913
+ 9.8026236  9.817622   9.83218186 9.90633616]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04067472/images/n04067472_47.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03970156/images/n03970156_120.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03976657/images/n03976657_55.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_271.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_374.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_43.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03255030/images/n03255030_256.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03424325/images/n03424325_51.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04067472/images/n04067472_313.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02788148/images/n02788148_393.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.50044811 108.92141759 109.51233664 110.45083013 110.78164237
+ 111.23083502 111.93959904 112.10355268 113.85528769 119.07113646]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_16.JPEG
+test label: n02125311
+top10 labels:
+['n02395406' 'n02129165' 'n02395406' 'n02486410' 'n02415577' 'n02132136'
+ 'n02395406' 'n02395406' 'n02403003' 'n02099712']
+top10 dist:
+[7.85377161 8.34393283 8.34904047 8.36108615 8.43640006 8.47678532
+ 8.48618149 8.65744606 8.66085423 8.84081009]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02395406/images/n02395406_7.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02129165/images/n02129165_491.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02395406/images/n02395406_58.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02486410/images/n02486410_41.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02415577/images/n02415577_65.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02132136/images/n02132136_300.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02395406/images/n02395406_25.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02395406/images/n02395406_215.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02403003/images/n02403003_56.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02099712/images/n02099712_220.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.00371042 110.40149236 111.01551178 111.88731213 112.2550877
+ 112.66739776 113.42678293 113.56690803 115.36985531 120.54894876]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_17.JPEG
+test label: n04486054
+top10 labels:
+['n04486054' 'n04486054' 'n04532670' 'n03902125' 'n04311004' 'n04486054'
+ 'n04532670' 'n04486054' 'n09332890' 'n04532670']
+top10 dist:
+[ 9.48039505  9.57770781  9.73283507  9.81911964  9.91922134  9.97334604
+  9.98016227 10.0968224  10.23130494 10.24948124]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04486054/images/n04486054_42.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04486054/images/n04486054_402.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_422.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03902125/images/n03902125_100.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04311004/images/n04311004_132.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04486054/images/n04486054_395.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_389.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04486054/images/n04486054_365.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n09332890/images/n09332890_296.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_438.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.07153885 111.42574206 112.08596558 113.01470608 113.36001882
+ 113.75383567 114.52127883 114.65891835 116.46229373 121.6300303 ]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_18.JPEG
+test label: n04285008
+top10 labels:
+['n03100240' 'n04285008' 'n03100240' 'n03670208' 'n04285008' 'n04285008'
+ 'n04285008' 'n03100240' 'n04285008' 'n04285008']
+top10 dist:
+[6.39135909 6.46543767 6.7586524  6.77057422 6.79865054 6.81684941
+ 6.82420002 6.91261101 7.08868475 7.10438908]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03100240/images/n03100240_19.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04285008/images/n04285008_95.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03100240/images/n03100240_80.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03670208/images/n03670208_496.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04285008/images/n04285008_346.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04285008/images/n04285008_226.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04285008/images/n04285008_107.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03100240/images/n03100240_305.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04285008/images/n04285008_294.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04285008/images/n04285008_185.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[113.06305797 113.45488694 114.06421942 115.0278784  115.33288116
+ 115.76118918 116.49773331 116.67130905 118.43895702 123.55138649]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_19.JPEG
+test label: n03763968
+top10 labels:
+['n03763968' 'n03763968' 'n03763968' 'n03763968' 'n03763968' 'n03763968'
+ 'n03763968' 'n03763968' 'n03763968' 'n03763968']
+top10 dist:
+[6.55269713 7.16511579 7.64112957 7.68919943 7.68945745 7.82780136
+ 7.87031833 7.88222491 8.02006913 8.02940463]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_107.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_255.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_439.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_118.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_77.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_139.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_62.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_323.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_265.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_99.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.3575999  110.71665273 111.33833056 112.26718984 112.60171482
+ 113.00534418 113.77722175 113.93982047 115.72129774 120.87785385]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_20.JPEG
+test label: n03814639
+top10 labels:
+['n03814639' 'n03814639' 'n02883205' 'n03763968' 'n03980874' 'n03814639'
+ 'n03814639' 'n03770439' 'n02837789' 'n03404251']
+top10 dist:
+[9.20277972 9.20905083 9.25469807 9.55726388 9.56400329 9.5892404
+ 9.59167147 9.74794641 9.7788528  9.79628814]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03814639/images/n03814639_400.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03814639/images/n03814639_111.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02883205/images/n02883205_65.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_133.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03980874/images/n03980874_130.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03814639/images/n03814639_73.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03814639/images/n03814639_104.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03770439/images/n03770439_1.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02837789/images/n02837789_445.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03404251/images/n03404251_102.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.84124542 109.21737814 109.86625795 110.76382626 111.09545385
+ 111.48464851 112.28291477 112.44853657 114.21369049 119.40974991]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_21.JPEG
+test label: n03837869
+top10 labels:
+['n04008634' 'n03355925' 'n03837869' 'n03837869' 'n03355925' 'n03837869'
+ 'n03837869' 'n04008634' 'n03837869' 'n03976657']
+top10 dist:
+[6.02942128 6.29958688 6.65170214 6.67376952 6.75869402 6.90922849
+ 7.28710342 7.36514761 7.38313541 7.38689466]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04008634/images/n04008634_33.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03355925/images/n03355925_344.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03837869/images/n03837869_19.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03837869/images/n03837869_81.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03355925/images/n03355925_475.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03837869/images/n03837869_417.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03837869/images/n03837869_173.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04008634/images/n04008634_289.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03837869/images/n03837869_48.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03976657/images/n03976657_366.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.4999925  110.831056   111.45997493 112.38622819 112.73677805
+ 113.13875923 113.91689334 114.0126932  115.79114883 120.99512439]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_22.JPEG
+test label: n01983481
+top10 labels:
+['n03763968' 'n03763968' 'n03424325' 'n03424325' 'n03424325' 'n03814639'
+ 'n03424325' 'n02236044' 'n03763968' 'n03763968']
+top10 dist:
+[ 9.68836265  9.82559582  9.85120474  9.86438146 10.14577294 10.15763738
+ 10.18990624 10.20777298 10.23107235 10.28547171]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_456.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_190.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03424325/images/n03424325_87.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03424325/images/n03424325_134.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03424325/images/n03424325_58.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03814639/images/n03814639_32.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03424325/images/n03424325_467.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_270.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_15.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03763968/images/n03763968_172.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.61470428 108.93600888 109.580943   110.49625582 110.84808209
+ 111.23223512 112.05487065 112.13530322 113.95007924 119.12323095]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_23.JPEG
+test label: n01629819
+top10 labels:
+['n02226429' 'n01742172' 'n01644900' 'n02165456' 'n02226429' 'n01644900'
+ 'n01698640' 'n02226429' 'n01644900' 'n01644900']
+top10 dist:
+[ 9.16616648  9.89595882 10.03635188 10.12286716 10.19755064 10.20753887
+ 10.25152643 10.25381096 10.34283345 10.37241613]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_254.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01742172/images/n01742172_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01644900/images/n01644900_129.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02165456/images/n02165456_360.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_237.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01644900/images/n01644900_33.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01698640/images/n01698640_64.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_136.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01644900/images/n01644900_349.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01644900/images/n01644900_52.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.46503094 109.76036141 110.39922675 111.25904663 111.62241745
+ 111.96670139 112.88403823 112.90651728 114.7657018  119.86769954]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_24.JPEG
+test label: n04532670
+top10 labels:
+['n04532670' 'n04532670' 'n04532670' 'n04532670' 'n04532670' 'n04532670'
+ 'n04532670' 'n04532670' 'n04532670' 'n04532670']
+top10 dist:
+[5.0092401  5.13410257 5.29251233 5.33934432 5.37921906 5.40715386
+ 5.47446566 5.57060066 5.59160699 5.60562781]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_127.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_78.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_76.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_247.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_40.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_186.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_383.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_275.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_427.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04532670/images/n04532670_249.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.37556898 111.73181531 112.34117917 113.23610787 113.61227391
+ 114.01609891 114.76536485 114.90577273 116.66990621 121.88993439]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_25.JPEG
+test label: n04074963
+top10 labels:
+['n04074963' 'n04074963' 'n04074963' 'n04265275' 'n04074963' 'n04074963'
+ 'n04074963' 'n04074963' 'n04074963' 'n04074963']
+top10 dist:
+[5.66536778 5.73937464 6.049049   6.07086405 6.13619807 6.18782193
+ 6.29228375 6.45607744 6.51471187 6.54935403]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_91.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_10.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_226.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04265275/images/n04265275_171.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_48.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_184.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_95.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_132.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_20.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_283.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.93797639 109.2589094  109.89796617 110.79305754 111.11602875
+ 111.53489088 112.32847308 112.45942325 114.24923964 119.42753195]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_26.JPEG
+test label: n04540053
+top10 labels:
+['n04540053' 'n04540053' 'n04540053' 'n04540053' 'n04540053' 'n04540053'
+ 'n04540053' 'n04540053' 'n04540053' 'n02802426']
+top10 dist:
+[6.83079913 6.93355634 7.21643616 7.27497081 7.35959032 7.38020902
+ 7.48127787 7.54461096 7.62997311 7.6368616 ]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_192.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_422.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_384.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_479.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_218.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_125.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_250.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_75.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04540053/images/n04540053_58.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02802426/images/n02802426_308.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.73387985 112.13153971 112.79800414 113.71876174 114.04562542
+ 114.48157155 115.14324735 115.35507365 117.15576491 122.23265537]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_27.JPEG
+test label: n04371430
+top10 labels:
+['n04371430' 'n04371430' 'n02730930' 'n04371430' 'n02730930' 'n04371430'
+ 'n04371430' 'n02730930' 'n04371430' 'n04371430']
+top10 dist:
+[8.29943901 8.7031997  8.70599309 8.75417259 8.88277769 8.98948377
+ 9.02270288 9.14734555 9.38847002 9.4529101 ]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_188.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_266.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02730930/images/n02730930_56.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_131.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02730930/images/n02730930_148.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_184.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_367.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02730930/images/n02730930_287.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_303.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04371430/images/n04371430_324.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.81010385 109.21062067 109.854011   110.73240018 111.06729345
+ 111.48415495 112.26373794 112.45858433 114.19009477 119.37288414]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_28.JPEG
+test label: n02906734
+top10 labels:
+['n02906734' 'n02906734' 'n03970156' 'n02906734' 'n02906734' 'n02906734'
+ 'n02906734' 'n02906734' 'n03902125' 'n02906734']
+top10 dist:
+[6.51829165 7.63958891 8.041001   8.06182435 8.26001566 8.58525854
+ 9.4394541  9.87977406 9.87996126 9.8931702 ]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_43.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_465.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03970156/images/n03970156_95.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_257.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_234.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_474.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_58.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_309.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03902125/images/n03902125_334.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02906734/images/n02906734_159.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.28773577 109.68279794 110.22865254 111.21387944 111.55359448
+ 112.03249188 112.71786511 112.89048854 114.63605999 119.81281099]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_29.JPEG
+test label: n02094433
+top10 labels:
+['n02094433' 'n02094433' 'n02094433' 'n02094433' 'n02094433' 'n02094433'
+ 'n02094433' 'n02094433' 'n02094433' 'n02094433']
+top10 dist:
+[4.64565727 4.94031262 5.0447278  5.28502086 5.30832158 5.38626148
+ 5.42611075 5.4557462  5.46368183 5.51140196]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_49.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_435.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_80.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_289.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_364.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_103.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_447.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_56.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_440.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02094433/images/n02094433_450.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.55084754 111.97065045 112.60401647 113.4816779  113.80984867
+ 114.21641545 114.99849602 115.09812013 116.88151997 122.07031879]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_30.JPEG
+test label: n03796401
+top10 labels:
+['n04285008' 'n04465501' 'n03100240' 'n04285008' 'n04465501' 'n04465501'
+ 'n03649909' 'n03649909' 'n03649909' 'n04465501']
+top10 dist:
+[7.41295803 8.04522005 8.2657371  8.27062027 8.3666766  8.38808944
+ 8.4470565  8.50541817 8.56038787 8.61909757]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04285008/images/n04285008_414.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04465501/images/n04465501_398.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03100240/images/n03100240_384.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04285008/images/n04285008_454.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04465501/images/n04465501_237.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04465501/images/n04465501_405.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03649909/images/n03649909_139.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03649909/images/n03649909_200.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03649909/images/n03649909_81.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04465501/images/n04465501_252.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.05402989 111.40111112 112.03764656 112.98586794 113.30314353
+ 113.71495459 114.44763404 114.60330603 116.40534982 121.54874923]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_31.JPEG
+test label: n07614500
+top10 labels:
+['n07579787' 'n07711569' 'n07768694' 'n07579787' 'n07768694' 'n07768694'
+ 'n07579787' 'n07579787' 'n01983481' 'n07579787']
+top10 dist:
+[7.67532225 8.1255505  8.3217625  8.39645028 8.3978824  8.66403701
+ 8.7046026  8.71215302 8.71975446 8.74230609]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n07579787/images/n07579787_79.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07711569/images/n07711569_130.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07768694/images/n07768694_270.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07579787/images/n07579787_105.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07768694/images/n07768694_279.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07768694/images/n07768694_407.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07579787/images/n07579787_125.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07579787/images/n07579787_260.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01983481/images/n01983481_45.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07579787/images/n07579787_249.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.61617899 109.89806824 110.49268294 111.3484378  111.68827185
+ 112.09167216 112.92769704 112.99617471 114.79283955 120.0162878 ]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_32.JPEG
+test label: n03837869
+top10 labels:
+['n03126707' 'n03355925' 'n03447447' 'n03355925' 'n03837869' 'n03355925'
+ 'n03837869' 'n03447447' 'n03355925' 'n03837869']
+top10 dist:
+[7.95107135 7.99260438 8.20565482 8.35768203 9.05039971 9.07974221
+ 9.10973998 9.386506   9.41003219 9.43492672]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03126707/images/n03126707_316.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03355925/images/n03355925_430.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03447447/images/n03447447_315.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03355925/images/n03355925_50.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03837869/images/n03837869_185.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03355925/images/n03355925_384.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03837869/images/n03837869_305.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03447447/images/n03447447_241.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03355925/images/n03355925_357.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03837869/images/n03837869_316.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[108.84596338 109.16318398 109.89125722 110.79199504 111.08989003
+ 111.46788662 112.33153974 112.36900636 114.20606258 119.38304962]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_33.JPEG
+test label: n03937543
+top10 labels:
+['n03937543' 'n03937543' 'n03937543' 'n03937543' 'n03937543' 'n03937543'
+ 'n03937543' 'n03937543' 'n03937543' 'n03937543']
+top10 dist:
+[6.84753267 8.38912408 8.55927336 8.59244614 8.8048554  8.81459522
+ 8.92032203 8.9214379  8.94164798 9.01514031]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_198.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_452.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_107.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_67.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_205.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_390.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_90.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_2.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_254.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03937543/images/n03937543_216.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.2756108  110.60429902 111.19810524 112.14403962 112.45617987
+ 112.87759078 113.66299198 113.78269121 115.56845184 120.76735009]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_34.JPEG
+test label: n06596364
+top10 labels:
+['n04023962' 'n02977058' 'n03255030' 'n03970156' 'n03250847' 'n03250847'
+ 'n03255030' 'n04328186' 'n04023962' 'n04023962']
+top10 dist:
+[8.45573458 8.81277455 8.87004898 9.12617174 9.14804958 9.16092734
+ 9.19507663 9.37192097 9.49036927 9.49494394]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04023962/images/n04023962_487.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02977058/images/n02977058_213.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03255030/images/n03255030_82.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03970156/images/n03970156_246.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03250847/images/n03250847_349.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03250847/images/n03250847_416.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03255030/images/n03255030_268.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04328186/images/n04328186_387.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04023962/images/n04023962_163.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04023962/images/n04023962_158.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.57785632 109.93027565 110.56421387 111.47452183 111.79657453
+ 112.21948953 112.99884093 113.14064989 114.9008739  120.13319848]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_35.JPEG
+test label: n02977058
+top10 labels:
+['n02977058' 'n02977058' 'n02977058' 'n04070727' 'n02977058' 'n02977058'
+ 'n04070727' 'n04070727' 'n02977058' 'n04070727']
+top10 dist:
+[7.79522216 7.93823352 7.9873938  8.16117872 8.2054105  8.21504452
+ 8.30000549 8.3939862  8.47102267 8.50020593]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02977058/images/n02977058_288.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02977058/images/n02977058_410.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02977058/images/n02977058_24.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04070727/images/n04070727_10.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02977058/images/n02977058_404.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02977058/images/n02977058_45.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04070727/images/n04070727_301.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04070727/images/n04070727_50.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02977058/images/n02977058_420.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04070727/images/n04070727_62.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.23945788 109.5947504  110.2047204  111.13261203 111.42309955
+ 111.85999515 112.64371966 112.78099812 114.56434424 119.78086829]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_36.JPEG
+test label: n01768244
+top10 labels:
+['n01768244' 'n01768244' 'n01768244' 'n01768244' 'n01768244' 'n01768244'
+ 'n01768244' 'n01768244' 'n01768244' 'n01768244']
+top10 dist:
+[6.56231882 6.77487882 6.84164325 6.85973738 7.00839352 7.01409174
+ 7.01719634 7.03068245 7.03449524 7.15583174]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_204.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_63.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_34.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_131.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_499.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_170.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_454.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_289.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_360.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01768244/images/n01768244_358.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.37555593 111.72507891 112.26298447 113.1636639  113.55646609
+ 113.9858371  114.74864067 114.89295544 116.63466193 121.84013476]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_37.JPEG
+test label: n03930313
+top10 labels:
+['n04417672' 'n04417672' 'n02793495' 'n03804744' 'n04417672' 'n02793495'
+ 'n04417672' 'n04417672' 'n03976657' 'n02793495']
+top10 dist:
+[9.09066867 9.34918146 9.38208566 9.43698438 9.44166116 9.56288782
+ 9.56980641 9.57174712 9.59684123 9.62211136]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04417672/images/n04417672_368.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04417672/images/n04417672_428.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02793495/images/n02793495_210.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03804744/images/n03804744_260.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04417672/images/n04417672_37.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02793495/images/n02793495_51.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04417672/images/n04417672_270.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04417672/images/n04417672_41.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03976657/images/n03976657_103.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02793495/images/n02793495_196.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.24915456 110.57189132 111.22814725 112.14466224 112.50850445
+ 112.90596044 113.69120426 113.78104232 115.60967611 120.75396798]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_38.JPEG
+test label: n04099969
+top10 labels:
+['n04099969' 'n04099969' 'n04099969' 'n04099969' 'n04099969' 'n04099969'
+ 'n04099969' 'n04099969' 'n04099969' 'n04099969']
+top10 dist:
+[7.76217361 7.76477477 7.85430003 7.86896477 7.87417423 7.91383308
+ 7.94768702 7.97804118 7.99348207 8.19300778]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_209.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_61.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_287.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_357.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_27.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_62.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_461.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_177.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_492.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04099969/images/n04099969_141.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.45501315 109.79461609 110.46190055 111.3451087  111.67597441
+ 112.0630227  112.89891892 112.98761149 114.80051076 119.98475202]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_39.JPEG
+test label: n03891332
+top10 labels:
+['n03891332' 'n03891332' 'n03891332' 'n03891332' 'n03891332' 'n03891332'
+ 'n03891332' 'n03891332' 'n03891332' 'n03891332']
+top10 dist:
+[7.92971222 8.62434636 8.67740385 8.73608002 8.89938168 8.93352527
+ 8.96811314 9.13110949 9.13218595 9.22397964]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_439.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_451.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_58.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_309.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_376.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_489.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_416.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_498.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03891332/images/n03891332_453.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.12292075 111.48302635 112.14383827 113.07005697 113.37829746
+ 113.78250886 114.54922138 114.7344714  116.50643222 121.63964272]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_40.JPEG
+test label: n02125311
+top10 labels:
+['n02125311' 'n02125311' 'n02125311' 'n02125311' 'n02125311' 'n02125311'
+ 'n02125311' 'n02125311' 'n02125311' 'n02125311']
+top10 dist:
+[8.60361729 8.73508308 8.89955084 8.93044188 8.936985   8.94303224
+ 8.95655172 9.02993739 9.08341463 9.10109059]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_479.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_305.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_342.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_385.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_414.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_499.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_147.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_164.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_224.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_449.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.45083612 110.83820862 111.47248927 112.34379434 112.69268367
+ 113.10753534 113.89322102 113.96790059 115.83241874 120.95026725]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_41.JPEG
+test label: n02125311
+top10 labels:
+['n02125311' 'n02125311' 'n02125311' 'n02125311' 'n02125311' 'n02125311'
+ 'n02125311' 'n02125311' 'n02125311' 'n02125311']
+top10 dist:
+[5.17665552 5.46920189 5.52098293 5.65230968 5.68385887 5.79454708
+ 5.99870911 6.04164403 6.04746465 6.07867673]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_458.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_478.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_494.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_89.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_416.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_184.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_132.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_204.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_320.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02125311/images/n02125311_113.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.09709241 111.56716444 112.19819104 113.02715009 113.39467738
+ 113.78383148 114.57757447 114.68487634 116.49453061 121.58388293]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_42.JPEG
+test label: n02279972
+top10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+top10 dist:
+[5.41762301 6.09025473 6.17752267 6.3760647  6.61061852 6.8318204
+ 6.85419853 6.90662786 6.91355141 6.96942584]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_176.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_56.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_287.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_147.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_25.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_212.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_251.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_154.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_334.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_214.JPEG']
+bottom10 labels:
+['n01629819' 'n02056570' 'n01629819' 'n01629819' 'n01629819' 'n01629819'
+ 'n01629819' 'n01629819' 'n02509815' 'n02509815']
+bottom10 dist:
+[76.5493322  76.58894531 76.66228467 76.99454269 77.39931353 77.54384593
+ 77.64662941 78.10169039 78.25312486 79.38595439]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n01629819/images/n01629819_55.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02056570/images/n02056570_446.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01629819/images/n01629819_336.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01629819/images/n01629819_201.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01629819/images/n01629819_440.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01629819/images/n01629819_323.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01629819/images/n01629819_21.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01629819/images/n01629819_154.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02509815/images/n02509815_334.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02509815/images/n02509815_413.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_43.JPEG
+test label: n02231487
+top10 labels:
+['n02236044' 'n02236044' 'n02231487' 'n02231487' 'n02231487' 'n02231487'
+ 'n02236044' 'n02231487' 'n02231487' 'n02231487']
+top10 dist:
+[6.87494355 7.35950795 7.43375324 7.49618154 7.60927704 7.74179153
+ 7.75122395 7.77290567 7.80253646 7.81274872]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_360.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_376.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_496.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_309.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_467.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_235.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_439.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_458.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_69.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_135.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.88604547 110.10982503 110.67057507 111.55623277 111.93053219
+ 112.3438202  113.17369741 113.19523254 115.07888254 120.21799987]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_44.JPEG
+test label: n03584254
+top10 labels:
+['n03584254' 'n03584254' 'n03584254' 'n03584254' 'n03584254' 'n04074963'
+ 'n03584254' 'n03584254' 'n03584254' 'n03584254']
+top10 dist:
+[6.64467297 7.30398352 7.38616288 7.40419536 7.59473744 7.67111662
+ 7.68720078 7.72469041 7.72480192 7.77650815]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_306.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_424.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_200.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_312.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_212.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04074963/images/n04074963_341.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_499.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_242.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_23.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03584254/images/n03584254_183.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.11736059 111.44798176 112.03497816 112.95506056 113.2845727
+ 113.68868174 114.48959011 114.58620459 116.39716678 121.55270519]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_45.JPEG
+test label: n02231487
+top10 labels:
+['n02226429' 'n02236044' 'n02231487' 'n02231487' 'n02231487' 'n02236044'
+ 'n02236044' 'n02236044' 'n02231487' 'n02231487']
+top10 dist:
+[6.50687081 7.53086727 7.57546809 7.74206601 7.84065567 7.92313395
+ 7.93101088 8.03484421 8.11059159 8.30211301]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02226429/images/n02226429_192.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_17.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_229.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_80.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_142.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_107.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_127.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02236044/images/n02236044_336.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_107.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02231487/images/n02231487_116.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[110.15320039 110.49162618 111.09196216 112.0006325  112.37463193
+ 112.77674883 113.59967745 113.64611106 115.49601211 120.63526803]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_46.JPEG
+test label: n04376876
+top10 labels:
+['n04376876' 'n04376876' 'n04376876' 'n03838899' 'n02268443' 'n01770393'
+ 'n04376876' 'n04376876' 'n04376876' 'n03160309']
+top10 dist:
+[8.98381899 9.18517784 9.54610191 9.54698329 9.58482013 9.62221107
+ 9.6433751  9.71953209 9.72455188 9.81421422]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n04376876/images/n04376876_219.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04376876/images/n04376876_421.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04376876/images/n04376876_103.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03838899/images/n03838899_479.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02268443/images/n02268443_266.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n01770393/images/n01770393_68.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04376876/images/n04376876_216.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04376876/images/n04376876_456.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n04376876/images/n04376876_213.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n03160309/images/n03160309_471.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.74014961 110.05650692 110.67713285 111.56667546 111.93749077
+ 112.30984401 113.14591453 113.22871247 115.04811008 120.2237568 ]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_47.JPEG
+test label: n07720875
+top10 labels:
+['n07720875' 'n07720875' 'n07720875' 'n07720875' 'n07720875' 'n07720875'
+ 'n07720875' 'n07720875' 'n07720875' 'n07720875']
+top10 dist:
+[6.54661232 6.62948389 6.63550956 6.64833004 6.74443064 6.97030467
+ 7.03240308 7.05771506 7.06192475 7.07676861]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_442.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_307.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_155.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_271.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_156.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_203.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_82.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_141.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n07720875/images/n07720875_147.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.97654613 110.19437843 110.71539299 111.65174135 111.9498714
+ 112.42156377 113.24325144 113.27402404 115.07555273 120.27932385]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_48.JPEG
+test label: n02504458
+top10 labels:
+['n02504458' 'n02504458' 'n02504458' 'n02504458' 'n02504458' 'n02504458'
+ 'n02504458' 'n02504458' 'n02504458' 'n02504458']
+top10 dist:
+[6.7827721  7.2525242  7.31171785 7.36834631 7.61332381 7.75774463
+ 7.78979674 7.8875943  7.89605033 7.91010826]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_365.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_309.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_421.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_201.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_192.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_138.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_31.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_8.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_338.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02504458/images/n02504458_256.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[111.21119919 111.73268469 112.25046611 113.13894308 113.57265304
+ 114.00319315 114.72370766 114.88074527 116.59766179 121.7741386 ]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+
+test img: /data/kexu6/tiny-imagenet-200/val/images/val_49.JPEG
+test label: n02909870
+top10 labels:
+['n02909870' 'n02909870' 'n02909870' 'n02909870' 'n02909870' 'n02909870'
+ 'n02909870' 'n02909870' 'n02909870' 'n02909870']
+top10 dist:
+[7.09937466 7.19006888 7.36436595 7.54098863 7.63806831 7.8606973
+ 7.86384814 7.91825443 7.94812561 8.02144242]
+top10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_357.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_492.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_380.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_424.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_299.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_0.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_335.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_194.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_37.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02909870/images/n02909870_238.JPEG']
+bottom10 labels:
+['n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972' 'n02279972'
+ 'n02279972' 'n02279972' 'n02279972' 'n02279972']
+bottom10 dist:
+[109.29245151 109.70475043 110.20649166 111.13947691 111.49496479
+ 111.95872893 112.70217959 112.78812099 114.54957518 119.77774403]
+bottom10 paths:
+['/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_88.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_57.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_438.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_292.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_352.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_39.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_282.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_463.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_262.JPEG'
+ '/data/kexu6/tiny-imagenet-200/train/n02279972/images/n02279972_488.JPEG']
+
+

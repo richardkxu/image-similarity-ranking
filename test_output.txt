@@ -1,0 +1,8 @@
+embedding loaded
+knn fit finished
+Top30 test KNN time: 0.00 hr 13.00 min 59.63 sec
+Test idx shape: (10000, 30)
+Test similarity precision is: 64.508%
+Top30 train KNN time: 2.00 hr 20.00 min 11.99 sec
+Train idx shape: (100000, 30)
+Training similarity precision is: 73.556%
